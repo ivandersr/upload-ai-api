@@ -33,5 +33,5 @@ Content-Type: application/json
 {
   "videoId": "fb201272-de9b-435b-bb61-dd62ef5617e9",
   "temperature": 0.5,
-  "template": "Generate an abstract from the video transcription: '''{transcription}'''"
+  "prompt": "Generate an abstract from the video transcription: '''{transcription}'''"
 }
